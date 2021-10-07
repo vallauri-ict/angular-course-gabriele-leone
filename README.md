@@ -1,4 +1,4 @@
-# Angular Playground
+# Angular Course
 
 Spazio condiviso dove saranno caricati gli esercizi di Angular dell'anno 2021/22 
 
